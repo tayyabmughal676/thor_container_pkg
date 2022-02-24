@@ -1,7 +1,7 @@
 name: thor_container_pkg
 description: Thor Fancy Container Package
 version: 0.0.1
-homepage:
+homepage: https://github.com/tayyabmughal676/thor_container_pkg
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
